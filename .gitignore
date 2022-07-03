@@ -127,5 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
-
+python=3.8
 .gitignore
